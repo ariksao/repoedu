@@ -2,4 +2,4 @@
 
 ![Logo](/hub/logo.jpg?raw=true "Logo")
 
-[eduko.fi](eduko.fi)
+[eduko.fi](https://eduko.fi)
