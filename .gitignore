@@ -1,3 +1,6 @@
 *.txt
 *.exe
 *.pdb
+
+*.blend*
+!*.blend
