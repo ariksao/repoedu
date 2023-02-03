@@ -16,7 +16,17 @@ fn main()
     let mut inp2 = String::new();
     io::stdin().read_line(&mut inp2).expect("Failed to read line");
 
-    println!("Result: {}", int(&inp2) + int(&inp));
+	println!("Result: {}",
+		add(
+			int(&inp2),
+			int(&inp)
+		)
+	);
+}
+
+fn add(val1:i32, val2:i32) -> i32
+{
+	return val1 + val2;
 }
 
 fn int(str: &str) -> i32
