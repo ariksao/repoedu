@@ -5,4 +5,11 @@
 *.blend*
 !*.blend
 
+<<<<<<< HEAD
 *.bak
+=======
+*.bak
+
+*/rust/*/target
+*/rust/*/Cargo.lock
+>>>>>>> 8ecb210 (Update .gitignore once more)
